@@ -1,6 +1,6 @@
 # GTE Rides- Bike Purchase Analysis
 
-![](Gitpic.jpg)
+![](bikemen.jpg)
 ___
 ## Introduction
 This project is out demonstrate some of my skills in Spreadsheet. Here, the use of "IF" function to create a new column, pivot table as well as interactive dashboard was highlighted.
