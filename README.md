@@ -39,11 +39,24 @@ The dataset was checked for relevance to the evaluation questions. Also, the use
 Pivot Tables were created from 4 columns: Age Group, Children, Income and Purchased Bike to summarise the desired data.
 To visualize the trends and patterns in the analysis, slicers, bar chart and line chart were used.
 
-Pivot Tables 
+### Pivot Tables 
 :----------------: | :---------------:
 ![](p_table.png)   | ![](p_table2.png)
 
-Interactive Dashboard 
-![](dashboard)
+### Findings:
 
+- Out of 276 adults, 110 bought bikes. Out of 614 young adults, 332 bought bikes, and only 39 out of 110 youths bought bikes.
+- Adults and Youths with lower average incomes bought bikes while young adults with higher average incomes bought bikes.
+- It was observed that there were fewer children in the families of bike buyers compared to non-buyers. 
 
+### Interactive Dashboard 
+![](dashboard.png)
+
+You can interact with the dashboard ![here](Excel Project Dataset.xlsx - Microsoft Excel Online (live.com)
+
+## Conclusion and Recommendations
+
+From the dataset, many questions could still be answered. As for this analysis, here are my recommendations based on the findings:
+1. GTE Bikes' marketing campaigns should  be targeted at adults with low incomes, and young adults with high incomes.
+2. The chance of bike sales is high if low-income adults and high-income young adults are targeted in the campaign.
+3. It is recommended that the cost of marketing to people between 30 years and below should not be too high because they averagely earn lower income compared to adults and young adults. Moreover, out of 110 youths surveyed, only about 35% of them bought bikes.
