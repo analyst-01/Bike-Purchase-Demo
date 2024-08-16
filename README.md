@@ -43,7 +43,7 @@ Pivot Tables
 :----------------: | :---------------:
 ![](p_table.png)   | ![](p_table2.png)
 
-Interactive dashboard 
-![](dashboard.png)
+Interactive Dashboard 
+![](dashboard)
 
 
